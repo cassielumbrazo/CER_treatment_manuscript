@@ -1,6 +1,6 @@
 # CER_treatment_manuscript
 ## Cle Elum Ridge (CER) Forest Treatment Manuscript GitHub Repo
-Author: Cassie Lumbrazo
+Author: Cassie Lumbrazo\
 Date: June 2024
 
 This repo contains cleaned up scripts from other analysis repos, `CER_raster_analysis` and `RAPID_raster_analysis` to prepare the final analysis scripts for manuscript publication. 

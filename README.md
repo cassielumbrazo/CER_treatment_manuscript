@@ -1,22 +1,22 @@
 # CER_treatment_manuscript 
 ## Cle Elum Ridge (CER) Forest Treatment Manuscript GitHub Repo
 Author: Cassie Lumbrazo\
-Email: cassielumbrazo@gmail.com
-Last updated: Dec 2025
+Email: cassielumbrazo@gmail.com\
+Last updated: December 2025
 
 ### Summary 
-This repo contains all the scripts to reproduce the analysis and final figures in `Lumbrazo et al. (2025)`.\
+This repo contains all the scripts to reproduce the analysis and final figures in **Lumbrazo et al. (2025)**.\
 Scripts named `#_description` in the filename contain the all the previous and present analysis, while the scripts named `figure#_` contain the construction of the final manuscript figures. 
 
-#### Related Resources 
+### Related Resources 
 This github repo complements the accepted manuscript:
-> Lumbrazo et al. (2025), “Can we maximize snow storage through fire-resilient forest treatments? Insights from experimental forest treatments in the Eastern Cascades, WA, USA,” accepted in Frontiers in Forests and Global Change, Forest Hydrology section (doi:10.3389/ffgc.2025.1707812).
+> **Lumbrazo et al. (2025)**, “Can we maximize snow storage through fire-resilient forest treatments? Insights from experimental forest treatments in the Eastern Cascades, WA, USA,” accepted in Frontiers in Forests and Global Change, Forest Hydrology section (doi:10.3389/ffgc.2025.1707812).
 
 Data repo with files required to run these notebooks:
 > Lumbrazo, C., J. Cramblitt, E. R. Howe, S. E. Dickerson-Lange, S. Pestana, K. Dedinsky, M. Stuart, K. Smith, J. D. Lundquist (2025). Cle Elum Ridge Forest Treatment Region Dataset, HydroShare, https://doi.org/10.4211/hs.96f4199c0e4c48e6bc0ea7f9251b16dd
 
 
-#### Repo Contents 
+### Repo Contents 
 *Description of the analysis notebook contents*\
 This repo contains cleaned up scripts from other analysis repos, `CER_raster_analysis` and `RAPID_raster_analysis` to prepare the final analysis scripts for manuscript publication. 
 
@@ -34,7 +34,7 @@ This repo contains cleaned up scripts from other analysis repos, `CER_raster_ana
 `11_delta_dce_catgeories_check.ipynb`: notebook created during review to create extra figures and double check the anaylsis as no mistakes\
 `example_notebook.ipynb`: starter notebook to create a new one from
 
-*Description of the figure notebook contents*
+*Description of the figure notebook contents*\
 `figure2_3_domain.ipynb`: figure 2\
 `figure3_all_together.ipynb`: figure 3\
 `figure4_deltadce_treatment_maps.ipynb`: figure 4\
